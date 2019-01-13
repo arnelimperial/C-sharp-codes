@@ -1,0 +1,11 @@
+C:\Users\9page\Documents\C#\CSharp5\bin\Debug\netcoreapp2.1\CSharp5.deps.json
+C:\Users\9page\Documents\C#\CSharp5\bin\Debug\netcoreapp2.1\CSharp5.runtimeconfig.json
+C:\Users\9page\Documents\C#\CSharp5\bin\Debug\netcoreapp2.1\CSharp5.runtimeconfig.dev.json
+C:\Users\9page\Documents\C#\CSharp5\bin\Debug\netcoreapp2.1\CSharp5.dll
+C:\Users\9page\Documents\C#\CSharp5\bin\Debug\netcoreapp2.1\CSharp5.pdb
+C:\Users\9page\Documents\C#\CSharp5\obj\Debug\netcoreapp2.1\CSharp5.csprojAssemblyReference.cache
+C:\Users\9page\Documents\C#\CSharp5\obj\Debug\netcoreapp2.1\CSharp5.csproj.CoreCompileInputs.cache
+C:\Users\9page\Documents\C#\CSharp5\obj\Debug\netcoreapp2.1\CSharp5.AssemblyInfoInputs.cache
+C:\Users\9page\Documents\C#\CSharp5\obj\Debug\netcoreapp2.1\CSharp5.AssemblyInfo.cs
+C:\Users\9page\Documents\C#\CSharp5\obj\Debug\netcoreapp2.1\CSharp5.dll
+C:\Users\9page\Documents\C#\CSharp5\obj\Debug\netcoreapp2.1\CSharp5.pdb

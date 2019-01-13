@@ -1,0 +1,11 @@
+C:\Users\9page\Documents\C#\CSharpFile2\bin\Debug\netcoreapp2.1\CSharpFile2.deps.json
+C:\Users\9page\Documents\C#\CSharpFile2\bin\Debug\netcoreapp2.1\CSharpFile2.runtimeconfig.json
+C:\Users\9page\Documents\C#\CSharpFile2\bin\Debug\netcoreapp2.1\CSharpFile2.runtimeconfig.dev.json
+C:\Users\9page\Documents\C#\CSharpFile2\bin\Debug\netcoreapp2.1\CSharpFile2.dll
+C:\Users\9page\Documents\C#\CSharpFile2\bin\Debug\netcoreapp2.1\CSharpFile2.pdb
+C:\Users\9page\Documents\C#\CSharpFile2\obj\Debug\netcoreapp2.1\CSharpFile2.csprojAssemblyReference.cache
+C:\Users\9page\Documents\C#\CSharpFile2\obj\Debug\netcoreapp2.1\CSharpFile2.csproj.CoreCompileInputs.cache
+C:\Users\9page\Documents\C#\CSharpFile2\obj\Debug\netcoreapp2.1\CSharpFile2.AssemblyInfoInputs.cache
+C:\Users\9page\Documents\C#\CSharpFile2\obj\Debug\netcoreapp2.1\CSharpFile2.AssemblyInfo.cs
+C:\Users\9page\Documents\C#\CSharpFile2\obj\Debug\netcoreapp2.1\CSharpFile2.dll
+C:\Users\9page\Documents\C#\CSharpFile2\obj\Debug\netcoreapp2.1\CSharpFile2.pdb

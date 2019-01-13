@@ -1,0 +1,11 @@
+C:\Users\9page\Documents\C#\CSharpPattern\bin\Debug\netcoreapp2.1\CSharpPattern.deps.json
+C:\Users\9page\Documents\C#\CSharpPattern\bin\Debug\netcoreapp2.1\CSharpPattern.runtimeconfig.json
+C:\Users\9page\Documents\C#\CSharpPattern\bin\Debug\netcoreapp2.1\CSharpPattern.runtimeconfig.dev.json
+C:\Users\9page\Documents\C#\CSharpPattern\bin\Debug\netcoreapp2.1\CSharpPattern.dll
+C:\Users\9page\Documents\C#\CSharpPattern\bin\Debug\netcoreapp2.1\CSharpPattern.pdb
+C:\Users\9page\Documents\C#\CSharpPattern\obj\Debug\netcoreapp2.1\CSharpPattern.csprojAssemblyReference.cache
+C:\Users\9page\Documents\C#\CSharpPattern\obj\Debug\netcoreapp2.1\CSharpPattern.csproj.CoreCompileInputs.cache
+C:\Users\9page\Documents\C#\CSharpPattern\obj\Debug\netcoreapp2.1\CSharpPattern.AssemblyInfoInputs.cache
+C:\Users\9page\Documents\C#\CSharpPattern\obj\Debug\netcoreapp2.1\CSharpPattern.AssemblyInfo.cs
+C:\Users\9page\Documents\C#\CSharpPattern\obj\Debug\netcoreapp2.1\CSharpPattern.dll
+C:\Users\9page\Documents\C#\CSharpPattern\obj\Debug\netcoreapp2.1\CSharpPattern.pdb

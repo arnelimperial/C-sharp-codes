@@ -1,0 +1,3 @@
+id: 1 nimi: Jari palkka: 3500
+id: 2 nimi: Matti palkka: 4800
+id: 3 nimi: Tuomas palkka: 2100

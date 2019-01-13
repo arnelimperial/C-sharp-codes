@@ -1,0 +1,9 @@
+id: 1
+nimi: Jari
+palka: 3500
+id: 2
+nimi: Matti
+palka: 4800
+id: 3
+nimi: Tuomas
+palka: 2100

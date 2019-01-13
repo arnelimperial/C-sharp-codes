@@ -1,0 +1,11 @@
+C:\Users\9page\Documents\C#\CSharpException2\bin\Debug\netcoreapp2.1\CSharpException2.deps.json
+C:\Users\9page\Documents\C#\CSharpException2\bin\Debug\netcoreapp2.1\CSharpException2.runtimeconfig.json
+C:\Users\9page\Documents\C#\CSharpException2\bin\Debug\netcoreapp2.1\CSharpException2.runtimeconfig.dev.json
+C:\Users\9page\Documents\C#\CSharpException2\bin\Debug\netcoreapp2.1\CSharpException2.dll
+C:\Users\9page\Documents\C#\CSharpException2\bin\Debug\netcoreapp2.1\CSharpException2.pdb
+C:\Users\9page\Documents\C#\CSharpException2\obj\Debug\netcoreapp2.1\CSharpException2.csprojAssemblyReference.cache
+C:\Users\9page\Documents\C#\CSharpException2\obj\Debug\netcoreapp2.1\CSharpException2.csproj.CoreCompileInputs.cache
+C:\Users\9page\Documents\C#\CSharpException2\obj\Debug\netcoreapp2.1\CSharpException2.AssemblyInfoInputs.cache
+C:\Users\9page\Documents\C#\CSharpException2\obj\Debug\netcoreapp2.1\CSharpException2.AssemblyInfo.cs
+C:\Users\9page\Documents\C#\CSharpException2\obj\Debug\netcoreapp2.1\CSharpException2.dll
+C:\Users\9page\Documents\C#\CSharpException2\obj\Debug\netcoreapp2.1\CSharpException2.pdb

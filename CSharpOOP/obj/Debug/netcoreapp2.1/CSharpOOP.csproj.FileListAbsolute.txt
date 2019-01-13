@@ -1,0 +1,11 @@
+C:\Users\9page\Documents\C#\CSharpOOP\bin\Debug\netcoreapp2.1\CSharpOOP.deps.json
+C:\Users\9page\Documents\C#\CSharpOOP\bin\Debug\netcoreapp2.1\CSharpOOP.runtimeconfig.json
+C:\Users\9page\Documents\C#\CSharpOOP\bin\Debug\netcoreapp2.1\CSharpOOP.runtimeconfig.dev.json
+C:\Users\9page\Documents\C#\CSharpOOP\bin\Debug\netcoreapp2.1\CSharpOOP.dll
+C:\Users\9page\Documents\C#\CSharpOOP\bin\Debug\netcoreapp2.1\CSharpOOP.pdb
+C:\Users\9page\Documents\C#\CSharpOOP\obj\Debug\netcoreapp2.1\CSharpOOP.csprojAssemblyReference.cache
+C:\Users\9page\Documents\C#\CSharpOOP\obj\Debug\netcoreapp2.1\CSharpOOP.csproj.CoreCompileInputs.cache
+C:\Users\9page\Documents\C#\CSharpOOP\obj\Debug\netcoreapp2.1\CSharpOOP.AssemblyInfoInputs.cache
+C:\Users\9page\Documents\C#\CSharpOOP\obj\Debug\netcoreapp2.1\CSharpOOP.AssemblyInfo.cs
+C:\Users\9page\Documents\C#\CSharpOOP\obj\Debug\netcoreapp2.1\CSharpOOP.dll
+C:\Users\9page\Documents\C#\CSharpOOP\obj\Debug\netcoreapp2.1\CSharpOOP.pdb

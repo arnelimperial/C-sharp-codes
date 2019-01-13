@@ -1,0 +1,11 @@
+C:\Users\9page\Documents\C#\CSharpArrayList\bin\Debug\netcoreapp2.1\CSharpArrayList.deps.json
+C:\Users\9page\Documents\C#\CSharpArrayList\bin\Debug\netcoreapp2.1\CSharpArrayList.runtimeconfig.json
+C:\Users\9page\Documents\C#\CSharpArrayList\bin\Debug\netcoreapp2.1\CSharpArrayList.runtimeconfig.dev.json
+C:\Users\9page\Documents\C#\CSharpArrayList\bin\Debug\netcoreapp2.1\CSharpArrayList.dll
+C:\Users\9page\Documents\C#\CSharpArrayList\bin\Debug\netcoreapp2.1\CSharpArrayList.pdb
+C:\Users\9page\Documents\C#\CSharpArrayList\obj\Debug\netcoreapp2.1\CSharpArrayList.csprojAssemblyReference.cache
+C:\Users\9page\Documents\C#\CSharpArrayList\obj\Debug\netcoreapp2.1\CSharpArrayList.csproj.CoreCompileInputs.cache
+C:\Users\9page\Documents\C#\CSharpArrayList\obj\Debug\netcoreapp2.1\CSharpArrayList.AssemblyInfoInputs.cache
+C:\Users\9page\Documents\C#\CSharpArrayList\obj\Debug\netcoreapp2.1\CSharpArrayList.AssemblyInfo.cs
+C:\Users\9page\Documents\C#\CSharpArrayList\obj\Debug\netcoreapp2.1\CSharpArrayList.dll
+C:\Users\9page\Documents\C#\CSharpArrayList\obj\Debug\netcoreapp2.1\CSharpArrayList.pdb

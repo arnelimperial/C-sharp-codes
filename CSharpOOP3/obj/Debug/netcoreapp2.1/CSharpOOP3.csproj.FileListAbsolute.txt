@@ -1,0 +1,11 @@
+C:\Users\9page\Documents\C#\CSharpOOP3\bin\Debug\netcoreapp2.1\CSharpOOP3.deps.json
+C:\Users\9page\Documents\C#\CSharpOOP3\bin\Debug\netcoreapp2.1\CSharpOOP3.runtimeconfig.json
+C:\Users\9page\Documents\C#\CSharpOOP3\bin\Debug\netcoreapp2.1\CSharpOOP3.runtimeconfig.dev.json
+C:\Users\9page\Documents\C#\CSharpOOP3\bin\Debug\netcoreapp2.1\CSharpOOP3.dll
+C:\Users\9page\Documents\C#\CSharpOOP3\bin\Debug\netcoreapp2.1\CSharpOOP3.pdb
+C:\Users\9page\Documents\C#\CSharpOOP3\obj\Debug\netcoreapp2.1\CSharpOOP3.csprojAssemblyReference.cache
+C:\Users\9page\Documents\C#\CSharpOOP3\obj\Debug\netcoreapp2.1\CSharpOOP3.csproj.CoreCompileInputs.cache
+C:\Users\9page\Documents\C#\CSharpOOP3\obj\Debug\netcoreapp2.1\CSharpOOP3.AssemblyInfoInputs.cache
+C:\Users\9page\Documents\C#\CSharpOOP3\obj\Debug\netcoreapp2.1\CSharpOOP3.AssemblyInfo.cs
+C:\Users\9page\Documents\C#\CSharpOOP3\obj\Debug\netcoreapp2.1\CSharpOOP3.dll
+C:\Users\9page\Documents\C#\CSharpOOP3\obj\Debug\netcoreapp2.1\CSharpOOP3.pdb

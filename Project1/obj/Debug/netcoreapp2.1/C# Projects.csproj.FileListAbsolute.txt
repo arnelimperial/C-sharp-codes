@@ -1,0 +1,11 @@
+C:\Users\9page\Documents\C# Projects\bin\Debug\netcoreapp2.1\C# Projects.deps.json
+C:\Users\9page\Documents\C# Projects\bin\Debug\netcoreapp2.1\C# Projects.runtimeconfig.json
+C:\Users\9page\Documents\C# Projects\bin\Debug\netcoreapp2.1\C# Projects.runtimeconfig.dev.json
+C:\Users\9page\Documents\C# Projects\bin\Debug\netcoreapp2.1\C# Projects.dll
+C:\Users\9page\Documents\C# Projects\bin\Debug\netcoreapp2.1\C# Projects.pdb
+C:\Users\9page\Documents\C# Projects\obj\Debug\netcoreapp2.1\C# Projects.csprojAssemblyReference.cache
+C:\Users\9page\Documents\C# Projects\obj\Debug\netcoreapp2.1\C# Projects.csproj.CoreCompileInputs.cache
+C:\Users\9page\Documents\C# Projects\obj\Debug\netcoreapp2.1\C# Projects.AssemblyInfoInputs.cache
+C:\Users\9page\Documents\C# Projects\obj\Debug\netcoreapp2.1\C# Projects.AssemblyInfo.cs
+C:\Users\9page\Documents\C# Projects\obj\Debug\netcoreapp2.1\C# Projects.dll
+C:\Users\9page\Documents\C# Projects\obj\Debug\netcoreapp2.1\C# Projects.pdb
