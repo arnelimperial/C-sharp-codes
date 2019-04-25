@@ -1,4 +1,4 @@
-# Sharp-CSharp
+<h2 align=center style="color: green;">C-sharp codes</h2>
 
 ***v1.0.0***
 
@@ -17,4 +17,4 @@ zlib
 
 
 ### Coder:
-Arnel Gonzales Imperial
+Arnel Imperial
