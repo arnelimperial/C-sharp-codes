@@ -11,5 +11,10 @@ Console apps, snippets and mini-projects created for implementing Algorithms and
 * Visual Studio Code
 ---
 
-### Coded by:
+
+#### License
+zlib
+
+
+### Coder:
 Arnel Gonzales Imperial
